@@ -9,7 +9,7 @@ This is a example to how to build your own Web3 cloud storage by Swan Cloud Stor
 --------
 Swan Cloud Storage Solution consists of [Multi-Chain Storage(MCS)](https://multichain.storage) and [MetaArk](https://github.com/FogMeta/go-mc-sdk). 
 
-[Multi-Chain Storage (MCS)]((https://multichain.storage)) represents a revolutionary Web3 S3 storage gateway fortified by smart contract integration to accelerate decentralized storage adoption.
+[Multi-Chain Storage (MCS)](https://multichain.storage) represents a revolutionary Web3 S3 storage gateway fortified by smart contract integration to accelerate decentralized storage adoption.
 
 [MetaArk](https://github.com/FogMeta/go-mc-sdk) is a robust data archiving and rebuilding service designed to securely store and automatically recover your most critical data assets. It encodes large datasets into CAR files, distributed seamlessly across decentralized storage networks. 
 
